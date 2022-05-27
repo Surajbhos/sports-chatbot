@@ -1,0 +1,28 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-game",
+      "2": "I-game",
+      "3": "L-game",
+      "4": "U-game",
+      "5": "B-material_type",
+      "6": "I-material_type",
+      "7": "L-material_type",
+      "8": "U-material_type",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-game": 1,
+      "I-game": 2,
+      "L-game": 3,
+      "U-game": 4,
+      "B-material_type": 5,
+      "I-material_type": 6,
+      "L-material_type": 7,
+      "U-material_type": 8,
+      "O": 0
+    },
+    "num_tags": 9
+  }
+]
